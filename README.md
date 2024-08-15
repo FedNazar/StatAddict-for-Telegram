@@ -83,8 +83,8 @@ Download the latest version of StatAddict for Telegram from the releases section
  - Open StatAddict-for-Telegram.sln file in Visual Studio 2022 with Visual C++ installed (no additional dependencies required)
  - Click "Build"->"Build Solution"
 ## License
-Licensed under the GNU LGPL v2.1 License. Read LICENSE file for more details.
+Licensed under the GNU LGPL v2.1 License. Read LICENSE file for more details.\
 Copyright © 2024 [Nazar Fedorenko](https://github.com/FedNazar).
 
-Uses [JSON for Modern C++ library](https://github.com/nlohmann/json) by [Niels Lohmann](https://nlohmann.me). Licensed under the MIT License. Read lib/nlohmann/json/LICENSE.MIT file for more details.
+Uses [JSON for Modern C++ library](https://github.com/nlohmann/json) by [Niels Lohmann](https://nlohmann.me). Licensed under the MIT License. Read lib/nlohmann/json/LICENSE.MIT file for more details.\
 Copyright © 2013-2022 [Niels Lohmann](https://nlohmann.me).
