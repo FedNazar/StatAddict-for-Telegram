@@ -1,0 +1,7 @@
+# Visual Studio related directories
+.vs
+x64
+*.user
+
+# Test JSON files
+*.json
